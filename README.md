@@ -13,5 +13,6 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 + **Gogle Fonts:** Para fuentes personalizadas
 
 ### Vista previo del Proyecto
+![Demo](/imagenes/vistaprevia.png)
 ### Contacto
 Yesica Matu: [Mi instagram](https://www.instagram.com/yessica_matu02?igsh=bXZsZjl1MTMwMWVx)
